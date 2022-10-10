@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BMI/static/css/main.47b79f74.chunk.css",
+    "main.js": "/BMI/static/js/main.e0b1701b.chunk.js",
+    "main.js.map": "/BMI/static/js/main.e0b1701b.chunk.js.map",
+    "runtime-main.js": "/BMI/static/js/runtime-main.ad9d7033.js",
+    "runtime-main.js.map": "/BMI/static/js/runtime-main.ad9d7033.js.map",
+    "static/js/2.591d8dcc.chunk.js": "/BMI/static/js/2.591d8dcc.chunk.js",
+    "static/js/2.591d8dcc.chunk.js.map": "/BMI/static/js/2.591d8dcc.chunk.js.map",
+    "index.html": "/BMI/index.html",
+    "static/css/main.47b79f74.chunk.css.map": "/BMI/static/css/main.47b79f74.chunk.css.map",
+    "static/js/2.591d8dcc.chunk.js.LICENSE.txt": "/BMI/static/js/2.591d8dcc.chunk.js.LICENSE.txt",
+    "static/media/bunny2.4ed739c7.png": "/BMI/static/media/bunny2.4ed739c7.png",
+    "static/media/style.css": "/BMI/static/media/img5.40b0a470.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9d7033.js",
+    "static/js/2.591d8dcc.chunk.js",
+    "static/css/main.47b79f74.chunk.css",
+    "static/js/main.e0b1701b.chunk.js"
+  ]
+}
